@@ -8,4 +8,4 @@
 
 ## Déploiement
 
-https://app.netlify.com/sites/sad-clarke-8cf6cc/overview
+https://sad-clarke-8cf6cc.netlify.app/
