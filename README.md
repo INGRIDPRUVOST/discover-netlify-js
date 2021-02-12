@@ -8,4 +8,4 @@
 
 ## Déploiement
 
-* Lien vers le site déployé sur Netlify : 
+https://app.netlify.com/sites/sad-clarke-8cf6cc/overview
